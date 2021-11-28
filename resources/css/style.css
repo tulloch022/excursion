@@ -1,0 +1,43 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    margin:0 auto;    
+    display:block;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
+}
+
+h2 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+
+
+#pitch {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+
